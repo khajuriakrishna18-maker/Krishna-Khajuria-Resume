@@ -1,103 +1,78 @@
-# Krishna-Khajuria-Resume
+# Krishna Khajuria
 
-
-## About Me
-
-I am a Computer Science undergraduate at VIT Bhopal University with a strong interest in Software Development, Machine Learning, Data Science, and Web Development.
-
-I enjoy building real-world solutions using modern technologies and continuously improving my technical skills through projects, certifications, and hands-on learning.
+📱 +91 6005329224 &nbsp;|&nbsp; 📧 krishnaakhajuria@gmail.com &nbsp;|&nbsp; 🔗 [GitHub](https://github.com/khajuriakrishna18-maker)
 
 ---
 
-## Education
+## Summary
 
-**VIT Bhopal University**
-- B.Tech in Computer Science and Engineering
-- 2023 – 2027
-- CGPA: 8.12/10
+Final-year B.Tech CSE student specialising in AI/ML, with hands-on project experience spanning machine learning pipelines, data analysis, and frontend development. Proficient in Python, C++, and JavaScript with practical knowledge of Scikit-learn, TensorFlow, and Flask. Targeting placements in software engineering and data science roles; DSA-focused with 50+ LeetCode problems solved in C++.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
-- C++
-- Python
-- JavaScript
+- **Languages:** C++, Python (Advanced), JavaScript, SQL
+- **ML / AI:** Scikit-learn, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Feature Engineering
+- **Web & Tools:** Flask, Streamlit, HTML, CSS, Git, GitHub, VS Code, Jupyter Notebook
+- **Deployment:** Hugging Face Spaces
+- **DSA:** 50+ LeetCode problems (C++)
 
-### Frontend Development
-- HTML
-- CSS
-- JavaScript
+---
 
-### Machine Learning & Data Science
-- Machine Learning
-- Data Analysis
-- Feature Engineering
-- Model Evaluation
+## Experience
 
-### Frameworks
-- Flask
-- Streamlit
+### Software Engineering Intern — VIT Bhopal (College-Mandated Internship Program)
+*Remote · 2025*
 
-### Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- TensorFlow
+- Completed university-mandated software engineering internship; applied core CS fundamentals including data structures, algorithms, and system design in a professional setting.
+- Leveraged the internship period for independent upskilling: completed a structured DSA roadmap (Love Babbar playlist, Striver A2Z sheet) and advanced ML coursework in parallel.
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+### AI/ML Intern — VIT Bhopal (College-Mandated Internship Program)
+*Remote · 2025*
+
+- Completed university-mandated AI/ML internship; applied supervised learning, data preprocessing, and model evaluation techniques to real-world problem statements.
+- Used the internship period to build and deploy independent ML projects using Scikit-learn, TensorFlow, and Flask, including a production-ready ML web application.
 
 ---
 
 ## Projects
 
-### PulseUp – Volunteer Management System
-**Frontend Developer**
+### ML Deployment App
+*Python · Scikit-learn · Flask · Pandas · 2025*
 
-- Developed a responsive frontend for a volunteer coordination platform.
-- Designed user-friendly interfaces for event listings, registrations, and announcements.
-- Improved accessibility and usability for low-connectivity regions.
-- Collaborated on platform architecture and user experience improvements.
+- Built and deployed an end-to-end machine learning web application with a Flask backend on Hugging Face Spaces, covering data ingestion, preprocessing, model training, and live inference.
+- Implemented multiple supervised learning models (classification/regression) with comparative evaluation metrics; integrated interactive visualisations for feature importance and model performance.
+
+### PulseUp — Volunteer Management System
+*HTML · CSS · JavaScript · Jan 2025 – Apr 2025*
+
+- Developed a responsive frontend interface for a community volunteer coordination platform, reducing page load time by ~30% via optimised asset delivery and lazy loading.
+- Designed user-facing layouts for event listings, registrations, and announcements; optimised for low-connectivity regions using offline-first design patterns.
+- Collaborated with a team of 4 on platform architecture and UX, contributing to 3 major feature releases within the project timeline.
+
+---
+
+## Education
+
+### VIT Bhopal University — Sehore, MP
+*B.Tech in Computer Science and Engineering (AI/ML Specialisation) · Sep 2023 – May 2027*
+- CGPA: 8.12 / 10.0
+
+### Army Public School, Kaluchak — Jammu and Kashmir, India
+*Senior Secondary Education (Class XII) · Completed*
 
 ---
 
 ## Certifications
 
-- NPTEL – Introduction to Cloud Computing
-- NPTEL – Internet of Things
-- University of Michigan – Applied Machine Learning in Python
-- Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp (In Progress)
-
----
-
-## Career Interests
-
-- Software Development
-- Machine Learning
-- Data Science
-- Artificial Intelligence
-- Frontend Development
-- Open Source Contribution
-
----
-
-## Contact
-
-📧 Email: krishnaakhajuria@gmail.com
-
-📱 Phone: 6005329224
-
-🔗 GitHub: https://github.com/YOUR_USERNAME
+- University of Michigan — Applied Machine Learning in Python (Coursera)
+- NPTEL — Introduction to Cloud Computing
+- NPTEL — Internet of Things
+- *In Progress:* Complete Data Science, ML, DL & NLP Bootcamp (Udemy)
 
 ---
 
 ## Resume
 
-The latest version of my resume is available in this repository.
-
+The latest version of my resume (PDF) is available in this repository: [ATS_Friendly_Technical_Resume (1).pdf](./ATS_Friendly_Technical_Resume%20(1).pdf)
